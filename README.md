@@ -1,3 +1,6 @@
+## Completed Q1 / Q2 Bonus 1 and partial 2 by due date.  After talking to SSM I dicided to completre Bonus 2 and submit.
+
+
 # Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
